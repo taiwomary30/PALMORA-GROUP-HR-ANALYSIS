@@ -16,11 +16,11 @@ The primary Data source used here is Palmoria Group HR data.csv and Palmoria Gro
  
 ### Tools used
 - Power BI 
- - For Data Collection
- - For Data Transformation
- - Calculated columns
- - For Data Visualization
- - For Dashboard creations
+  - For Data Collection
+  - For Data Transformation
+  - Calculated columns
+  - For Data Visualization
+  - For Dashboard creations
 
 ### Data Transformation and preparation
 In the initial phase of the Data Transformation and preparation, I perform the following actions;
