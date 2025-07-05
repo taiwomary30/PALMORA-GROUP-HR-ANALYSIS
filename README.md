@@ -39,12 +39,14 @@ In the initial phase of the Data Transformation and preparation, I perform the f
 -	Bonus amount is heavily influenced by both salary level and the rating-based bonus percentage.
 -	Palmoria meet the requirement that requires manufacturing companies to pay employees a minimum of $90,000
 -	Discoveries noticeable pay gap favoring males in several departments
--	The total number of employees below the minimum of $90,000 threshold for the recent regulation are 654 out of 946 employees.
+-	Employees below the minimum of $90,000 threshold on the recent regulation are higher than employees above.
 
 ### Recommendations
 - Targeted Recruitment: Encourage hiring from underrepresented genders in specific departments (e.g., female in legal and male in research and development, engineering and training).
 - Internal Mentorship: Foster gender diversity via mentorships in male - or female -heavy departments.
 - Ongoing Monitoring: Track these metrics quarterly to identify trends or imbalance over time.
+- Promote transparency in bonus distribution among the employees.
+-  Review and correct unjustified salary difference. 
 
 ### Dashboard Building
 - Created an interactive dashboard with Bar, pie, scatter, column charts, tables and slicers for:
@@ -57,6 +59,8 @@ In the initial phase of the Data Transformation and preparation, I perform the f
   - Total amount to be paid to individual employees (salary inclusive of bonus)
   - Total amount to be paid out per region and company-wide
   - Fitters for department, gender and region.
+   ![PALMORA GROUP DASHBOARD 1](https://github.com/user-attachments/assets/7a937e47-1da3-467f-b93d-96a1d22dec77)
+   ![PALMORA GROUP DASHBOARD 2](https://github.com/user-attachments/assets/489a3138-276a-4825-8f9c-a6614bb22679)
 
  ### What I learned
 - Translating raw data into meaningful and actionable insights
