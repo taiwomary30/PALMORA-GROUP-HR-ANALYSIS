@@ -56,7 +56,17 @@ In the initial phase of the Data Transformation and preparation, I perform the f
   - Amount of bonus to be paid to individual employees
   - Total amount to be paid to individual employees (salary inclusive of bonus)
   - Total amount to be paid out per region and company-wide
-  - Fitters for department, gender and region. 
+  - Fitters for department, gender and region.
+
+ ### What I learned
+- Translating raw data into meaningful and actionable insights
+- How to designed user-friendly dashboard that answer real operational questions 
+
+### Contact
+I’m open to internship role, full – time role, freelance projects, or collaboration and if you would like to connect or ask questions
+- EmaiI: Taiwomary003@gmail.com
+- LinkedIn: http://www.linkedin.com/in/taiwo-mary-463baa1b3
+
 
 
 
